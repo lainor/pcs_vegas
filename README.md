@@ -33,6 +33,6 @@ You may need to restart your application for the changes to reflect (I find this
 
 ## Usage
 
-Once the setup is complete, you'll be able to use the plugin.
+Once the setup is complete, you'll be able to use the plugin. You can learn more about it from the [plugin website](http://vegas.jaysalvat.com/).
 
 Enjoy!

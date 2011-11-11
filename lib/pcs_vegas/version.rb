@@ -1,3 +1,3 @@
 module Vegas
-  VERSION = "0.0.1.alpha4"
+  VERSION = "0.0.1.beta"
 end
